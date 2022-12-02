@@ -1,0 +1,157 @@
+body{
+	background-color: pink;
+}
+}
+#one h1{
+text-align: left;
+background-color: #fff;
+color: #d9161c;
+}
+#one h2{
+	text-align: center;
+	color:#fff;
+	padding: 20px;
+	font-family: serif;
+	font-size: 30px;
+	margin-left: 300px;
+	margin-right: 20px;
+	margin-top: 20px;
+	background-color:  #ad120c;
+	border-radius: 10px; 
+}
+#one img{
+	padding: 20px;
+	width: 15vw;
+}
+
+#one a{
+	text-decoration: none;
+}
+#NAV{
+	background-color:#f56e77;
+	color: #fff;
+	padding: 30px;
+
+}
+.nav-items{
+	list-style: none;
+	
+	display: inline-flex;
+	
+	justify-content: center;
+	padding-left: 50px;
+}
+.nav-links{
+	
+	padding: 10px;
+	color:#4f0409;
+	list-style: none;
+
+}
+#NAV a{
+	text-decoration: none;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+#end{
+	background-color:#f56e77;
+	padding-top: 30px;
+	margin-top: 30px;
+	color: :#4f0409;
+}
+
+}
+
+#end img{
+	margin-left: 100px;
+}
+
+.contact{
+	margin-left: 20px;
+}
+
+#foot{
+	background: #4f0409;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+
+a:hover{
+	background-color: pink;
+	text-decoration: none;
+}
+
+#end a{
+	text-decoration: none;
+	list-style: none;
+}
+#ten a{
+	text-decoration: none;
+	list-style: none;
+	background-color: orange;
+}
+
+.poz a:hover{
+	background-color: orange;
+}

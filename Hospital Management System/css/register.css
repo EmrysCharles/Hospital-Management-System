@@ -1,0 +1,45 @@
+body{
+	background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+	padding: auto;
+	margin: auto;
+	border: 2px solid black;
+	
+	border-radius: 10px;
+}
+/*
+.button{
+background-color: black;
+color: white;
+border: none;
+text-align: center;	
+display: inline-block;
+}
+
+.container{
+	width: 80;
+	margin: auto
+}
+
+.box1{
+	text-align: center;
+	background-color: #fff;
+	border: 3px black solid;
+	padding: 20px;
+	margin: 20px 0;
+}
+
+.reg{
+	background-color: #CCC;
+	padding: 20px;
+	border-radius: 12px;
+	border-bottom-width: 10px;
+	padding-bottom: 6px;
+	margin: 20px;
+
+}
+
+.reg label{
+display: inline-table;
+padding: 20px;
+}
+
